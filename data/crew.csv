@@ -1,0 +1,9 @@
+crew_id,name,role,base_airport,max_hours_day,hourly_cost
+C001,Rahul,Pilot,BOM,8,50
+C002,Amit,Pilot,DEL,8,50
+C003,Priya,Copilot,BOM,8,40
+C004,Neha,Copilot,BLR,8,40
+C005,Arjun,Attendant,BOM,10,25
+C006,Sneha,Attendant,DEL,10,25
+C007,Vikram,Attendant,BLR,10,25
+C008,Karan,Attendant,HYD,10,25

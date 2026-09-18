@@ -1,0 +1,62 @@
+[
+    {
+        "flight_id": "FL001",
+        "pilot": null,
+        "copilot": null,
+        "attendant": null
+    },
+    {
+        "flight_id": "FL002",
+        "pilot": "C001",
+        "copilot": "C003",
+        "attendant": "C005"
+    },
+    {
+        "flight_id": "FL003",
+        "pilot": null,
+        "copilot": null,
+        "attendant": null
+    },
+    {
+        "flight_id": "FL004",
+        "pilot": null,
+        "copilot": null,
+        "attendant": null
+    },
+    {
+        "flight_id": "FL005",
+        "pilot": null,
+        "copilot": null,
+        "attendant": null
+    },
+    {
+        "flight_id": "FL006",
+        "pilot": null,
+        "copilot": null,
+        "attendant": null
+    },
+    {
+        "flight_id": "FL007",
+        "pilot": null,
+        "copilot": null,
+        "attendant": null
+    },
+    {
+        "flight_id": "FL008",
+        "pilot": null,
+        "copilot": null,
+        "attendant": null
+    },
+    {
+        "flight_id": "FL009",
+        "pilot": "C001",
+        "copilot": "C004",
+        "attendant": "C007"
+    },
+    {
+        "flight_id": "FL010",
+        "pilot": null,
+        "copilot": null,
+        "attendant": null
+    }
+]
