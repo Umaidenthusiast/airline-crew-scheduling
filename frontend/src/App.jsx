@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react"
 import "./App.css"
 import FlightTable from "./components/FlightTable"
 
-const API_URL = "http://127.0.0.1:8000"
+const API_URL = "https://airline-crew-scheduling.onrender.com"
 
 function getErrorMessage(detail, fallback) {
 
